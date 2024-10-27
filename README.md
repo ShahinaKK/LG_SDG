@@ -18,7 +18,22 @@ and [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&h
   </tr>
 </table>
 
+<hr />
 
+## Citation
+If you find our work, this repository, or pretrained models useful, please consider giving a star :star: and citation.
+```bibtex
+@INPROCEEDINGS{10635823,
+  author={Kunhimon, Shahina and Naseer, Muzammal and Khan, Salman and Khan, Fahad Shahbaz},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)}, 
+  title={Language Guided Domain Generalized Medical Image Segmentation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Image segmentation;Visualization;Adaptation models;Data privacy;Costs;Correlation;Robustness;Multi-modal contrastive learning;Medical image segmentation;Single source domain generalization},
+  doi={10.1109/ISBI56570.2024.10635823}}
+```
 
 ## Installation
 <details>
